@@ -1,1 +1,1 @@
-# volume_sync
+Sync volume level between multiple computers on LAN
